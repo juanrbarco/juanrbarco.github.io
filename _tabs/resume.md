@@ -3,22 +3,24 @@
 icon: fas fa-id-badge
 order: 5
 ---
+<body>
 
-Here are my professional credentials.
-
-<table>
-  <tr>
-    <td>
-      <a href="/assets/files/JuanCRangel-Resume.pdf" target="_blank">
-        <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://juanrbarco.github.io//assets/files/JuanCRangel-Resume.pdf" width="100%" height="500px"></iframe>
-      </a>
-      <p style="text-align: center;">Resume</p>
-    </td>
-    <td>
-      <a href="assets/files/JuanCRangel-Diploma.pdf" target="_blank">
-         <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://juanrbarco.github.io//assets/files/JuanCRangel-Diploma.pdf" width="100%" height="500px"></iframe>
-      </a>
-      <p style="text-align: center;">Diploma</p>
-    </td>
-  </tr>
-</table>
+<div clas ="container">
+  <table style="width:100%">
+    <tr>
+      <td style="width:40%">
+        <a href="/assets/files/JuanCRangel-Resume.pdf" target="_blank">
+          <img src="/assets/files/JuanCRangel-Resume.jpg" width="100%" height="600px" data-no-zoom>
+        </a>
+      </td>
+      <td>
+      <p>Lore Ipsum Lore IpsumLore IpsumLore</p>
+      </td>
+    </tr>
+  </table>
+</div>
+<a href="/assets/files/JuanCRangel-Diploma.pdf" target="_blank">
+          <p style="text-align: center;">Diploma</p>
+          <img src="/assets/files/JuanCRangel-Diploma.jpg" width="100%" height="500px" data-no-zoom>
+        </a>
+</body>
