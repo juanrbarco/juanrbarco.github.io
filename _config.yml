@@ -16,7 +16,7 @@ timezone: America/Denver
 
 title: Juan Rangel # the main title
 
-tagline: Portfolio # it will display as the subtitle
+tagline: Game Programmer | Designer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -30,6 +30,9 @@ github:
 
 twitter:
   username: juanrbarco # change to your Twitter username
+
+index:
+  layout: home
 
 social:
   # Change to your full name.
