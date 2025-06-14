@@ -1,20 +1,50 @@
 - file: img1.jpg
+  title: "Tank Enemy Charge Attack"
 - file: img2.jpg
+  title: "Tank Enemy Blocking"
 - file: img3.jpg
+  title: "Grunt Enemy Gap Closer Attack"
 - file: img4.jpg
+  title: "Tank Enemy Blocking Beta Test"
 - file: img5.jpg
+  title: "3D Modeled Still Life"
 - file: img6.jpg
+  title: "Accordion Textured (Substance Painter)"
 - file: img7.jpg
+  title: "Still Life Render"
 - file: img8.jpg
+  title: "Prop Modeling and Texture"
 - file: img9.jpg
+  title: "Prop Modeling and Texture"
 - file: img10.jpg
+  title: "Prop Modeling and Texture"
 - file: img11.jpg
+  title: "Jeep Willys 3D Model and Texture"
 - file: img12.jpg
+  title: "Custom Ray Tracer Render (C)"
 - file: img13.jpg
+  title: "Custom Ray Tracer Render (C)"
 - file: img14.jpg
+  title: "Custom Ray Tracer Render (C)"
 - file: img15.jpg
+  title: "Level Design (UE5)"
 - file: img16.jpg
+  title: "Bug Model and Texture"
 - file: img17.jpg
+  title: "Mimic Character Design, Model, and Texture"
 - file: img18.jpg
+  title: "Mimic Character Close-Up"
 - file: img19.jpg
+  title: "Beat'Em Up Prototype"
 - file: img20.jpg
+  title: "Realistic 3D Model and Texture"
+- file: img21.jpg
+  title: "Move Up Whitebox"
+- file: img22.jpg
+  title: "Terrain Design (Houdini)"
+- file: img23.jpg
+  title: "Path Procedural Generator (Houdini)"
+- file: img24.jpg
+  title: "Move Up Prototype"
+- file: img25.jpg
+  title: "Level Whitebox"

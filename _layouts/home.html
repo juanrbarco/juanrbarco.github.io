@@ -58,8 +58,8 @@ refactor: true
 
 <div class="gallery-grid">
   {% for item in site.data.gallery %}
-    <a href="/assets/gallery/{{ item.file }}" class="glightbox" data-title="Image {{ forloop.index }}">
-      <img src="/assets/gallery/{{ item.file }}" alt="Gallery image">
+    <a href="/assets/gallery/{{ item.file }}" class="glightbox" data-title="{{ item.title }}">
+      <img src="/assets/gallery/{{ item.file }}" alt="{{ item.title }}">
     </a>
   {% endfor %}
 </div>
